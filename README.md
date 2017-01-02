@@ -1,7 +1,7 @@
 # VisInt-X
 VisInt-X is a developed visualization for the file produced by the XLPM algorithm. It is developed using JavaScript on HTML5 by definition. It uses several JavaScript pre developed libraries like: d3js, taffy and jquery. It is based on getting inputs from the user, the 2 inputs are the files that the visualization will be based on, and producing three layers of visualizations according to user click input that will be demonstrated later.
 
-[![VisInt-X](https://github.com/iebeid/VisInt-X/blob/master/3d.png)
+![VisInt-X](https://github.com/iebeid/VisInt-X/blob/master/3d.png)
 
 [![VisInt-X](http://img.youtube.com/vi/yVLHPw4s47k/0.jpg)](http://www.youtube.com/watch?v=yVLHPw4s47k)
 
@@ -29,3 +29,7 @@ TODO
 
 Fix zoom issues
 Fix protein rotation
+
+People Involoved: Mihir Jaiswal
+
+Tools: JavaScript D3 Library, Taffy.js
